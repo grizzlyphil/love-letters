@@ -1,0 +1,30 @@
+body{
+	background-color: Beige;
+	font-family: 'KoHo', sans-serif;
+	font-size: 16px;
+}
+h1{
+	font-size: 24px;
+	font-family: 'Great Vibes', cursive;
+	margin-left: 10%;
+}
+.box{
+	padding-left: 18%;
+	padding-right: 18%;
+	background-color: Beige;
+}
+
+h2{
+	margin-right: 25%;
+	float: right;
+	font-family: 'Great Vibes', cursive;
+}
+
+nav ul { 
+	list-style-type: none; 
+}
+
+.bun{
+	margin-right: 15%;
+	float: right;
+}

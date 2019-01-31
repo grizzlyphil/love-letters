@@ -1,0 +1,46 @@
+body{
+	background-color: Beige;
+	background-image: url("../img/clouds.jpg");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	font-size: 16px;
+	font-family: 'Krub', sans-serif;
+	color:white;
+}
+h1{
+	font-size: 24px;
+	margin-left: 10%;
+}
+p{
+	margin-left: 15%;
+	margin-right: 15%;
+}
+
+.box{
+	padding-left: 18%;
+	padding-right: 18%;
+	background-color: Beige;
+}
+
+.mid{
+	width: 200px;
+	height: auto;
+	margin-left: 50%;
+	margin-right: 25%;
+}
+
+h2{
+	margin-right: 15%;
+	float: right;
+	font-size: 20px;
+}
+
+nav ul { 
+	list-style-type: none; 
+	font-family: 'Krub', sans-serif;
+	color:white;
+}
+a{
+	font-family: 'Krub', sans-serif;
+	color:white;
+}
